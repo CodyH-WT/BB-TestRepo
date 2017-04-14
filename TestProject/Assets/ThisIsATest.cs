@@ -5,9 +5,12 @@ using UnityEngine;
 public class ThisIsATest : MonoBehaviour {
 
 //Cody
+// Jamari Marte
+// Lets perfect version control
 	// Use this for initialization
-	void Start () {
-		
+	void Start ()
+    {
+        Debug.Log("hello Cody");
 	}
 	
 	// Update is called once per frame
